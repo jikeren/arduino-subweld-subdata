@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map SPI Slave
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SubWirePowerClass	KEYWORD1
+SubWaveClass	KEYWORD1
+SubQalarmClass	KEYWORD1
+SubStateClass	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+putData	KEYWORD2
+getData	KEYWORD2
+objInfo	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
