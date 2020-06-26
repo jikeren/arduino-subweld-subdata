@@ -1,7 +1,7 @@
 		Git is a version control system.
 		Git is free software.	
 
-##subbase:<br> 
+# subbase
 ###1.创建一个父类：用于保存焊接数据到EERPOM中。<br> 
   创建4个子类：波形、状态、预警、能耗<br> 
   要求:1.定义EEPROM的存储地址<br> 
