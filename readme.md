@@ -1,5 +1,5 @@
-Git is a version control system.
-Git is free software.
+	Git is a version 	control system.
+Git is free software.	
 
 subbase:
 1.创建一个父类：用于保存焊接数据到EERPOM中。
